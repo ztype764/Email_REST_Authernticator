@@ -1,6 +1,4 @@
-Certainly! Here's a GitHub repository description for a Spring-based email authentication system that authenticates users via a link sent to their email using Spring services:
 
----
 
 # Spring Email Authentication System
 
