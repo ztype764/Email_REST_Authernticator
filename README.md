@@ -2,7 +2,7 @@
 
 # Spring Email Authentication System
 
-This repository contains a robust email authentication system built with the Spring framework. The system ensures secure user authentication by sending a unique verification link to the user's email address. Leveraging Spring services, it provides a seamless and reliable authentication process.
+This repository contains a robust email authentication system built with the Spring framework. The system ensures secure user authentication by sending a unique verification link to the user's email address. Leveraging Spring services and backed by a MySQL database, it provides a seamless and reliable authentication process.
 
 ## Features:
 
@@ -10,6 +10,7 @@ This repository contains a robust email authentication system built with the Spr
 - **Spring Security**: Utilizes Spring Security for handling authentication and authorization aspects.
 - **Thymeleaf Templates**: Implements Thymeleaf templates for dynamic and visually appealing email content.
 - **Service-Oriented Architecture**: Utilizes Spring services to modularize and manage different aspects of the authentication process.
+- **MySQL Database**: Integrates with MySQL to persist user data and authentication details.
 
 ## Project Structure:
 
